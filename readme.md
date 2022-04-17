@@ -12,7 +12,9 @@ Belki şu an uğradığın zaman içerisinde boş bir ortam görüyor olabilirsi
 + Youtube Playlistleri
 
 ### Prerequisites
-+ Python 3.x.x
+```
+Python 3.x.x
+```
 
 ## Contents
 ### Youtube Playlist
